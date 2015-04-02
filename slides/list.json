@@ -1,0 +1,13 @@
+[
+    "index.md",
+    "history.md",
+    "new-features.md",
+    [
+        "class/intro.md",
+        "class/class.md",
+        "class/extend.md"
+    ],
+    [
+        "compiler/intro.md"
+    ]
+]
