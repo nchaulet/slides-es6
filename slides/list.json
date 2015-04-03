@@ -25,8 +25,7 @@
     ],
     [
         "misc/intro.md",
-        "misc/template-string.md",
-        ""
+        "misc/template-string.md"
     ],
     "other-features.md",
     "doc.md",
