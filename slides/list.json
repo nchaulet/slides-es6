@@ -7,7 +7,8 @@
         "arrow-function/simple.md",
         "arrow-function/object-es3.md",
         "arrow-function/object-es5.md",
-        "arrow-function/object-es6.md"
+        "arrow-function/object-es6.md",
+        "arrow-function/resume.md"
     ],
     [
         "class/intro.md",
@@ -22,11 +23,23 @@
         "functions/spread-operator.md",
         "functions/named-parameters.md"
     ],
+    [
+        "misc/intro.md",
+        "misc/template-string.md",
+        ""
+    ],
     "other-features.md",
+    "doc.md",
     [
         "compiler/intro.md",
         "compiler/supports.md",
-        "compiler/list.md"
+        "compiler/list.md",
+        "compiler/faq.md"
+    ],
+    [
+        "es7/intro.md",
+        "es7/comprehensions.md",
+        "es7/other-feature.md"
     ],
     "conclusion.md"
 ]
