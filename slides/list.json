@@ -1,5 +1,7 @@
 [
     "index.md",
+    "es6.md",
+    "ecmascript.md",
     "history.md",
     "new-features.md",
     [
@@ -14,14 +16,15 @@
         "class/intro.md",
         "class/function-class.md",
         "class/class.md",
-        "class/extend.md"
+        "class/extend.md",
+        "class/react-example.md"
     ],
     [
         "functions/intro.md",
-        "functions/multiple-returns.md",
         "functions/default-value.md",
+        "functions/named-parameters.md",
         "functions/spread-operator.md",
-        "functions/named-parameters.md"
+        "functions/multiple-returns.md"
     ],
     [
         "misc/intro.md",
@@ -33,6 +36,7 @@
         "compiler/intro.md",
         "compiler/supports.md",
         "compiler/list.md",
+        "compiler/babel.md",
         "compiler/faq.md"
     ],
     [

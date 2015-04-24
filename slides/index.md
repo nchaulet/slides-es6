@@ -1,4 +1,6 @@
 
-# ES6
+# ECMAScript 6
 
-<img class="noborder" src="https://fanart.tv/fanart/movies/264/hdmovielogo/the-back-to-the-future-trilogy-51f57b05b6fde.png" />
+[@n_chaulet](https://twitter.com/n_chaulet)
+
+<img src="http://www.mapado.com/img/logos/mapado-logo-stroke-white.png" class="noborder" width="200px"/>

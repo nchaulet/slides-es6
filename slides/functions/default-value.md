@@ -2,8 +2,10 @@
 
 ```javascript
 
-function(param = 10) {
+myFunction(param = 10) {
     console.log(param);
 };
+
+myFunction();
 
 ```
